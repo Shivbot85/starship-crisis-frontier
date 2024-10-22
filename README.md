@@ -20,20 +20,20 @@ Stay focused! The clock is constantly counting down.
 
 Good luck, and enjoy the game!
 
+**Controls**:
+- Use trackpad to move
+- Use Trigger + Grip button to grab
+- Use Grip button for teleport/Grab things from a distance
+
 **Assets Used:**
-
-Real Stars Skybox: Beautiful, realistic skybox to enhance the sci-fi atmosphere.
-
-Sci-Fi Styled Modular Pack: A flexible modular set used to create the sci-fi environment.
-
-ScifiOfficeLite: Used for interiors and props.
-
-sFuture Modules Pro: Futuristic elements and environmental modules to build advanced sci-fi settings.
-
-TextMesh Pro: Used for rendering high-quality text in the UI and in-game.
-
-VRTemplateAssets: Provides VR interaction templates, enhancing gameplay mechanics.
-
- 
-
+Creepy Cat
+Real Stars Skybox
+Sci-Fi Styled Modular Pack
+ScifiOfficeLite
+sFuture Modules Pro
+TextMesh Pro
+VRTemplateAssets
+Low Poly Flat Sci Fi Assets
+Oculus Hands
+3D Scifi Kit Starter Kit
 
