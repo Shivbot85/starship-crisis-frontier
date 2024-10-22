@@ -48,4 +48,6 @@ Oculus Hands
 
 PS: Switch to Master branch for files
 
-
+**Contributors:**
+Shivaskar Naidoo 
+Maurice Bossekota
