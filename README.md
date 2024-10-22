@@ -46,4 +46,6 @@ Oculus Hands
 
 3D Scifi Kit Starter Kit
 
+PS: Switch to Master branch for files
+
 
