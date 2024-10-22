@@ -1,0 +1,4 @@
+Library/
+Assets/_Creepy_Cat/
+Assets/Real Stars Skybox/
+Assets/sFuture Modules Pro/
