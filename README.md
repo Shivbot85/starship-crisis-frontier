@@ -27,13 +27,23 @@ Good luck, and enjoy the game!
 
 **Assets Used:**
 Creepy Cat
+
 Real Stars Skybox
+
 Sci-Fi Styled Modular Pack
+
 ScifiOfficeLite
+
 sFuture Modules Pro
+
 TextMesh Pro
+
 VRTemplateAssets
+
 Low Poly Flat Sci Fi Assets
+
 Oculus Hands
+
 3D Scifi Kit Starter Kit
+
 
